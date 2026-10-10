@@ -1,15 +1,12 @@
 # Humanizer-V2
 
-Preserved and managed from Satyam's tools collection. Synced automatically via **Cherry 🍒**.
+Open-source project and utility tools.
 
 ## 🚀 Overview
-- **Project**: `Humanizer-V2`
-- **Original Source**: `Humanizer_V2.zip`
-- **Owner**: [loveslaw](https://github.com/loveslaw)
-- **Visibility**: Public
+Extracted source files, configs, and documentation for `Humanizer-V2`.
 
-## 📁 Repository Structure
-Contains unbundled source files, scripts, and configurations.
+## 📦 Contents
+All project files extracted directly at repository root.
 
 ---
-*Maintained by [loveslaw](https://github.com/loveslaw) & powered by Cherry.*
+*Maintained by [loveslaw](https://github.com/loveslaw)*
