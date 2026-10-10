@@ -1,0 +1,13 @@
+{
+  "RetryLimit": 3,
+  "use_proxy": false,
+  "CustomizationSettings": {
+    "Avatar": true,
+    "DisplayName": true,
+    "Bio": true,
+    "Banner": true,
+    "Pronouns": true,
+    "Hypesquad": true,
+    "Status": false
+  }
+}
